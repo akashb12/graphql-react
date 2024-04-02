@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+}
+
+/* common css */
+.icon-button {
+    cursor: pointer;
+}
+
+/* home css */
+.home-list{
+    height: 100vh;
+}
+.home-table-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.home-full-button {
+    width: 650px;
+}
+
+/* project detail */
+.project-detail-parent{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
